@@ -32,7 +32,7 @@ Computer Programming I
 
 ## Contact
 - Email: 225050390@students.unam.com
-- LinkedIn:
+- LinkedIn:https://www.linkedin.com/in/pehovelo-halwoodi-2a7346385/
 
 ## Live Application
 [Portfolio Link Here]
