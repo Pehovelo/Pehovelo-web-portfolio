@@ -5,7 +5,14 @@ I'm a second Mining Engineering student with an interest in programming, data an
 ## Course name
 Computer Programming I
 
+## Current Projects
+- Engineering MATLAB Calculations App
+- Student Portfolio Website
+- Quote Wise development app
+
 ## Skills
+
+**##software skills**
 - Python
 - Java
 - HTML & CSS
@@ -16,11 +23,6 @@ Computer Programming I
 - Git
 - GitHub
 - MATLAB
-
-## Current Projects
-- Engineering MATLAB Calculations App
-- Student Portfolio Website
-- Quote Wise development app
 
 **##Professional Skills**
 - Problem Solving
