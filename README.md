@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Bibie 👋
 
-<!--
-**Pehovelo/Pehovelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second Mining Engineering student with an interest in programming, data analysis, and engineering applications.
 
-Here are some ideas to get you started:
+## Course name
+Computer Programming I
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Java
+- HTML & CSS
+- Microsoft Excel
+- AutoCAD
+- Microsoft Word
+- Microsoft PowerPoint
+- Git
+- GitHub
+- MATLAB
+
+## Current Projects
+- Engineering MATLAB Calculations App
+- Student Portfolio Website
+- Quote Wise development app
+
+**##Professional Skills**
+- Problem Solving
+- Teamwork
+- Leadership
+- Communication
+-  Management
+- Critical Thinking
+
+## Contact
+- Email: 225050390@students.unam.com
+- LinkedIn:
+
+## Live Application
+[Portfolio Link Here]
+
+## Deployment
+Hosted using Flet Web Deployment
